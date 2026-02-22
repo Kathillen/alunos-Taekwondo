@@ -1,5 +1,5 @@
 # Academia de Taekwondo
-Sistema simples de controle de dados de alunos.
+Protótipo de istema simples de controle de dados de alunos.
 
 # Sistema de cadastro de alunos e controle dos seus dados ( Nome, idade, 
 
